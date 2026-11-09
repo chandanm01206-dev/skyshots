@@ -45,3 +45,4 @@ A classic vertical arcade sky shooter game built with Python and Pygame.
 - Varied enemy waves and health mechanics
 - Particle explosion effects and screen shake
 - Score and high score tracking
+
